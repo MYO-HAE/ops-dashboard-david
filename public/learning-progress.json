@@ -1,0 +1,58 @@
+{
+  "python_cs50p": {
+    "current_week": 10,
+    "current_topic": "Asyncio & Async/Await",
+    "lessons_completed": [
+      "Day 1: Intro to Functions",
+      "Day 2: Parameters + Return Values",
+      "Day 3: Conditionals (if/elif/else)",
+      "Day 4: Loops (for/while) - Range, iterating over lists/strings",
+      "Day 5: Nested Loops + Loop Control (break/continue)",
+      "Day 6: Exceptions - try/except blocks for error handling",
+      "Day 7: Libraries - import, Standard Library (random, statistics)",
+      "Day 8: Third-Party Libraries - PyPI, pip, requests module",
+      "Day 9: APIs with requests - GET/POST, JSON parsing, error handling",
+      "Day 10: OOP Basics - Classes, __init__, methods, attributes",
+      "Day 11: Unit Testing - assert, pytest, writing test functions",
+      "Day 12: File I/O - open(), read(), write(), with statement, CSV",
+      "Day 13: Regular Expressions - re module, pattern matching, validation",
+      "Day 14: OOP Inheritance - super(), method overriding, __str__, __repr__",
+      "Day 15: Packages & Virtual Environments - pip, venv, requirements.txt",
+      "Day 16: Decorators & Higher-Order Functions - @wraps, lru_cache, stacking",
+      "Day 17: Generators & Iterators - yield, memory efficiency, lazy evaluation",
+      "Day 18: Context Managers & with Statement - __enter__, __exit__, resource cleanup",
+      "Day 19: Multithreading & Concurrency - threading module, I/O-bound tasks, locks",
+      "Day 20: Asyncio & Async/Await - Event loop, coroutines, concurrent I/O"
+    ],
+    "started": "2026-02-09",
+    "last_completed": "2026-03-01"
+  },
+  "math_for_ai": {
+    "current_module": "practical_ml",
+    "current_topic": "Hyperparameter Tuning",
+    "lessons_completed": [
+      "Day 1: What is a Vector?",
+      "Day 2: Dot Product + Cosine Similarity",
+      "Day 3: Matrices + Matrix Multiplication",
+      "Day 4: Derivatives - The slope of a function at any point",
+      "Day 5: Chain Rule - How gradients flow through composed functions",
+      "Day 6: Partial Derivatives - How functions change w.r.t. one variable",
+      "Day 7: Gradient Vector - Direction of steepest ascent, foundation for gradient descent",
+      "Day 8: Gradient Descent - The optimization algorithm that powers AI training",
+      "Day 9: Convexity - Why some functions are easy to optimize and others aren't",
+      "Day 10: Train/Validation/Test Split - The foundation of reliable AI evaluation",
+      "Day 11: Normal Distribution - The bell curve, 68-95-99.7 rule, applications in ML",
+      "Day 12: Bayes' Theorem - P(A|B) = P(B|A)P(A)/P(B), updating priors with data",
+      "Day 13: Expectation and Variance - E[X], Var(X), why they matter for ML loss functions",
+      "Day 14: Covariance and Correlation - Measuring how two variables move together",
+      "Day 15: Learning Rates & Convergence - Step size, stability, adaptive optimizers",
+      "Day 16: Training Loop Deep Dive - Forward pass, backward pass, weight updates, PyTorch loop",
+      "Day 17: Module 4 Review - Complete ML training loop in mathematical terms",
+      "Day 18: Overfitting, Underfitting & Cross-Validation - Bias-variance tradeoff, k-fold CV",
+      "Day 19: Regularization - L1/L2 penalty, weight decay, preventing overfitting",
+      "Day 20: Hyperparameter Tuning - Grid search, random search, Bayesian optimization"
+    ],
+    "started": "2026-02-09",
+    "last_completed": "2026-03-01"
+  }
+}
